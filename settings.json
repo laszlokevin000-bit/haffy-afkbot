@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "haffy.aternos.me:41044",
+    "ip": "haffy.aternos.me",
     "port": 41044,
     "version": "1.12.2",
     "try-creative": false
